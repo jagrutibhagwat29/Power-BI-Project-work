@@ -2,6 +2,7 @@
 The project aims to provide insights into the distribution of Netflix content across regions. Dynamic Visuals helped compare the popularity, ratings and IDBM score of movies versus web series, and explore trends in viewer preferences. 
 
 ## Dataset:
+- <a href= "https://github.com/jagrutibhagwat29/Power-BI-Project-work/blob/main/Netflix%20dataset.xlsx">Dataset</a>
 
 ## Analysis Process:
 -	Data Collection from a source containing dataset with Netflix content and then importing the same dataset through ‘Get Data’ feature
